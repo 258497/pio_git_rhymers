@@ -1,5 +1,9 @@
 package edu.kis.vh.nursery;
 
+/**
+ * Klasa DefaultCountingOutRhymer dostarcza podstawową funkcjonalność wyliczanki.
+ * Działa w oparciu o strukturę stosu (LIFO).
+ */
 public class DefaultCountingOutRhymer {
 
     private int[] NUMBERS = new int[12];
